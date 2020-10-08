@@ -103,7 +103,9 @@ module.exports = {
             ['/general/i18n', 'i18n'],
             ['/general/server-side-rendering', 'Server-side rendering'],
             ['/general/faceting', 'Faceting'],
-            ['/general/logging', 'Logging']
+            ['/general/logging', 'Logging'],
+            ['/general/api-middleware', 'API middleware']
+
 
           ]
         },
